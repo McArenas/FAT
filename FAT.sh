@@ -1,5 +1,5 @@
 #!/bin/sh
-# FAT.app 
+# FAT.sh 
 # Fix Apple TV version 2
 # Created by: Marlon Arenas
 # Date Created: 24 February 2016
