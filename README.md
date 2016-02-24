@@ -1,2 +1,1 @@
-# FAT
-FAT (Fix Apple TV issues) is a script to restart AirPlay related services on a Mac.
+FAT (Fix Apple TV issues) is a simple bash script to restart AirPlay related services on a Mac.
